@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.2605739,3.06105221 C13.5029981,2.92882085 13.8067164,3.01814977 13.9389478,3.26057393 C14.0711792,3.5029981 13.9818502,3.80671642 13.7394261,3.93894779 L8.23942607,6.93894779 C8.09018732,7.02035074 7.90981268,7.02035074 7.76057393,6.93894779 L2.26057393,3.93894779 C2.01814977,3.80671642 1.92882085,3.5029981 2.06105221,3.26057393 C2.19328358,3.01814977 2.4970019,2.92882085 2.73942607,3.06105221 L8,5.93045618 L13.2605739,3.06105221 Z M2.5,1 C1.67157288,1 1,1.67157288 1,2.5 L1,9.5 C1,10.3284271 1.67157288,11 2.5,11 L13.5,11 C14.3284271,11 15,10.3284271 15,9.5 L15,2.5 C15,1.67157288 14.3284271,1 13.5,1 L2.5,1 Z M2.5,0 L13.5,0 C14.8807119,0 16,1.11928813 16,2.5 L16,9.5 C16,10.8807119 14.8807119,12 13.5,12 L2.5,12 C1.11928813,12 1.38777878e-16,10.8807119 0,9.5 L0,2.5 C-1.38777878e-16,1.11928813 1.11928813,0 2.5,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Контакты" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Контакты-Магазины-Центр-сантехники" transform="translate(-264.000000, -1209.000000)">
+            <g id="Questions" transform="translate(121.000000, 421.000000)">
+                <g id="Магазины-Центр-Сантехники" transform="translate(0.000000, 52.000000)">
+                    <g id="Кольцевая" transform="translate(138.000000, 469.000000)">
+                        <g id="Contact-Info" transform="translate(4.000000, 89.000000)">
+                            <g id="Email" transform="translate(0.000000, 176.000000)">
+                                <g id="mail" transform="translate(0.000000, 2.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="ic_email" fill-rule="nonzero"></g>
+                                    <g id="icon-color" mask="url(#mask-2)" fill="#8A94A6">
+                                        <g transform="translate(1.000000, -2.000000)" id="Gray-20">
+                                            <rect x="0" y="0" width="16" height="16"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

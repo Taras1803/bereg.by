@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.8934514,6.27628149 C14.554088,5.90790617 13.9906167,5.90790617 13.6512533,6.27628149 L8.65684871,11.6907037 L6.61426528,9.45264987 C6.26209572,9.09122502 5.71143059,9.09122502 5.35926104,9.46655083 C5.02630073,9.84187663 5.02630073,10.4396177 5.36566412,10.821894 L7.99733118,13.6646394 L8.03574967,13.7132928 C8.38151615,14.0955691 8.93858436,14.0955691 9.28435083,13.7132928 L14.8934514,7.6246742 C15.2328148,7.24934839 15.2328148,6.64465682 14.8934514,6.27628149 Z" id="path-1"></path>
+    </defs>
+    <g id="Корзина" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-448.000000, -535.000000)" id="Total">
+            <g transform="translate(0.000000, 130.000000)">
+                <g transform="translate(31.063433, 391.000000)">
+                    <g id="Discount" transform="translate(3.011292, 0.000000)">
+                        <g id="Input---Promocode">
+                            <g id="Input" transform="translate(123.462953, 0.000000)">
+                                <g id="Check">
+                                    <g transform="translate(291.000000, 14.000000)">
+                                        <rect id="Oval" fill="#0096EA" x="0.0915162267" y="0" width="20.075277" height="20" rx="10"></rect>
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="124px" viewBox="0 0 125 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.7%" y="-6.7%" width="113.3%" height="113.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.764705882   0 0 0 0 0.768627451   0 0 0 0 0.784313725  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Корзина" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Корзина-TNX-Page" transform="translate(-487.125000, -68.000000)" fill="#0096EA" fill-rule="nonzero">
+            <g id="Check" filter="url(#filter-1)" transform="translate(490.000000, 68.000000)">
+                <path d="M59.9787819,119.957564 C26.9653438,119.957564 0,92.99222 0,59.9787819 C0,26.9653438 26.9653438,0 59.9787819,0 C92.99222,0 119.957564,26.9653438 119.957564,59.9787819 C119.957564,92.99222 93.2442436,119.957564 59.9787819,119.957564 Z M59.9787819,7.30844794 C30.9974853,7.30844794 7.56047151,30.7454617 7.56047151,59.7267583 C7.56047151,88.708055 30.9974853,112.145305 59.9790177,112.145305 C88.9605501,112.145305 112.397328,88.7082908 112.397328,59.7267583 C112.649116,30.7454617 88.9600786,7.30844794 59.9787819,7.30844794 Z" id="Shape"></path>
+                <path d="M54.434499,77.619725 C53.4264047,77.619725 52.4183104,77.1156778 51.6624754,76.6116306 L39.3137917,64.262947 C37.8016503,62.7508055 37.8016503,60.4828291 39.3137917,58.9706876 C40.8259332,57.4585462 43.0939096,57.4585462 44.6060511,58.9706876 L54.1824754,68.547112 L76.6116306,46.6220039 C78.1237721,45.1098625 80.3917485,45.1098625 81.90389,46.6220039 C83.4160314,48.1341454 83.4160314,50.4021218 81.90389,51.9142633 L57.2067583,76.6116306 C56.4506876,77.3674656 55.4425933,77.6194892 54.434499,77.619725 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
